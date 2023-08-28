@@ -9,3 +9,7 @@ HEJ
 		Hej
 
 Hej
+
+## Authors of project
+Alex, August, Erica, Natasha 
+
